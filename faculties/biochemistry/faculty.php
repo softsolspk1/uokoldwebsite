@@ -1,0 +1,140 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Biochemistry, biochem, ku, ku Biochemistry, biology, chemistry" />
+<meta content="Welcome to the Department of Biochemistry, University of Karachi"  name=description>
+
+<title>Department of Biochemistry</title>
+<!-- // Stylesheets // -->
+<link href="/css/style.css" rel="stylesheet" type="text/css" />
+<!-- // JavaScript // -->
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/cufon-yui.js"></script>
+<script type="text/javascript" src="/js/arial.js"></script>
+<script type="text/javascript" src="/js/chilli.js"></script>
+<script type="text/javascript" src="/js/cycle.js"></script>
+<script type="text/javascript" src="/js/functions.js"></script>
+<script type="text/javascript" src="/js/fancybox.js"></script>
+</head>
+<body>
+<?php
+   $path = $_SERVER['DOCUMENT_ROOT'];
+   $path .= "/top.htm";
+   include_once($path);
+?>
+<div id="outer_content">
+<div id="content">
+<div id="breadcrumb">
+<ul>
+<li><a href="/">Home</a></li>
+<li><a href="/faculties/index.php">Faculties</a></li>
+<li><a href="/faculties/biochemistry/index.php">Biochemistry</a></li>
+<li><a href="#" class="active">Faculty</a></li>
+</ul>
+</div>
+
+<div id="banner_inner">
+<div id="banner_inner_wrapp">
+<img src="/images/banner-blog.jpg" alt="" />
+<h1>Department of Biochemistry</h1>
+</div>
+</div>
+<div id="courses_sec">
+<div class="heading_content">
+<h2>Faculty</h2>
+</div>
+<div class="course_content">
+  <div class="left_course">
+  <h2>&nbsp;</h2>
+<div class="course_menu">
+<ul>
+<li><a href="index.php">Introduction</a></li>
+<li><a href="#">Faculty</a></li>
+<li><a href="programs.php">Programs</a></li>
+<li><a href="research.php">Facilities and Research</a></li>
+<li><a href="phd.php">M.Phil. / Ph.D.</a></li>
+<li><a href="contact.php">Contact</a></li>
+<li></li>
+<li></li>
+</ul>
+</div>
+</div>
+<div class="right_course">
+  <h2><br />
+  </h2>
+
+<h3><strong>Professors</strong></h3>
+ <p>    
+ Dr. Farhat Batool<br />
+ Dr. Shamim  Qureshi<br />
+ Dr. Hajra Naz<br />
+ Dr. Sadaf Naeem<br />
+ Dr. Sadia Saleem<br />
+ Dr. Muhammad Kamran Azim<br />
+ </p>
+ 
+  <h3><strong>Associate Professors</strong></h3>
+  <p>    
+        
+         Dr. Huma Ikram<br />
+         Dr. Muhammad Farhan<br />
+         Dr. Tooba Lateef<br />
+         Dr. Farhat Bano<br />
+        
+  </p>
+ 
+  <h3><strong>Assistant Professors</strong></h3>
+  <p>   
+        
+    
+    
+    Dr.  Sajjad Haider<br />
+    
+    Dr. Faizan ul Hassan<br />
+    Dr. Yasmeen Rashid<br />
+    
+    Dr. Beena Hasan<br />
+    Dr. Fizza Naqvi<br /> 
+    
+    Dr. Ayesha Khan<br />
+    Dr. Uzma Urooj<br />
+    Dr. Khawaja Ali Hasan
+</p>
+  
+
+<!--
+<h3>&nbsp;</h3>
+  <h3>Adjunct Professors</h3>
+  <p>Prof.  Iqbal Mehmood Kidwai<br />
+    Prof.  Dr. Shakila Jahangeer</p>
+  <h3>Chairpersons and Faculty :: <a href="chair.pdf" target="_blank">PDF</a></h3>   -->
+
+
+
+<h3>&nbsp;</h3>
+<h3>&nbsp;</h3>
+</div>
+</div>
+</div>
+
+
+<br class="clear" />
+</div>
+<div id="contentendouter">
+    
+    
+    <div id="contentend">
+    
+    </div>
+  </div>
+</div>
+<?php
+   $path = $_SERVER['DOCUMENT_ROOT'];
+   $path .= "/footer.htm";
+   include_once($path);
+?>
+</body>
+
+</html>
