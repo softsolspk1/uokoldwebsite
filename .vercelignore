@@ -4,3 +4,23 @@ error_log
 Thumbs.db
 node_modules
 .git
+
+# Binary assets served from Cloudflare R2 instead (see vercel.json rewrites)
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.zip
+*.rar
+*.mp3
+*.mp4
+*.bmp
+*.webp
+*.swf

@@ -1,17 +1,35 @@
 {
-  "functions": {
-    "**/*.php": {
-      "runtime": "vercel-php@0.3.8"
-    },
-    "*.php": {
-      "runtime": "vercel-php@0.3.8"
-    }
-  },
-  "redirects": [
+  "version": 2,
+  "builds": [
     {
-      "source": "/admissions/2023/eveap.pdf",
-      "destination": "https://uokadmission.edu.pk/login",
-      "permanent": true
+      "src": "_router.php",
+      "use": "vercel-php@0.3.8"
+    },
+    {
+      "src": "**/*",
+      "use": "@vercel/static"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/admissions/2023/eveap\\.pdf",
+      "status": 301,
+      "headers": { "Location": "https://uokadmission.edu.pk/login" }
+    },
+    {
+      "src": "/(.*)\\.(pdf|jpg|jpeg|png|gif|doc|docx|xls|xlsx|ppt|pptx|zip|rar|mp3|mp4|bmp|webp|swf)",
+      "dest": "https://pub-fa9e1086078b499a9e91e19b8c804ba2.r2.dev/$1.$2"
+    },
+    {
+      "src": "/(.*)\\.php$",
+      "dest": "/_router.php"
+    },
+    {
+      "handle": "filesystem"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/_router.php"
     }
   ]
 }
