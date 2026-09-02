@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^mail\.uok\.edu\.pk$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.mail\.uok\.edu\.pk$
+RewriteRule ^/?$ "https\:\/\/www\.google\.com\/a\/uok\.edu\.pk\/ServiceLogin\?service\=mail\&passive\=true\&rm\=false\&continue\=http\%3A\/\/mail\.google\.com\/a\/uok\.edu\.pk\/\&bsv\=1k96igf4806cy\&ltmpl\=default\&ltmplcache\=2" [R=301,L]
+

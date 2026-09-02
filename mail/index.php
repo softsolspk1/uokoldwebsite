@@ -1,0 +1,1 @@
+<?php header('Location: https://www.google.com/a/uok.edu.pk/ServiceLogin?service=mail&passive=true&rm=false&continue=http%3A%2F%2Fmail.google.com%2Fa%2Fuok.edu.pk%2F&bsv=1k96igf4806cy&ltmpl=default&ltmplcache=2'); ?>

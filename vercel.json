@@ -1,0 +1,17 @@
+{
+  "functions": {
+    "**/*.php": {
+      "runtime": "vercel-php@0.3.8"
+    },
+    "*.php": {
+      "runtime": "vercel-php@0.3.8"
+    }
+  },
+  "redirects": [
+    {
+      "source": "/admissions/2023/eveap.pdf",
+      "destination": "https://uokadmission.edu.pk/login",
+      "permanent": true
+    }
+  ]
+}

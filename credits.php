@@ -1,0 +1,1 @@
+<?php header('Location: http://www.uok.edu.pk/mcn/index.php'); ?>

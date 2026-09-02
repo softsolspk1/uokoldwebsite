@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^lms\.uok\.edu\.pk$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.lms\.uok\.edu\.pk$
+RewriteRule ^/?$ "http\:\/\/lmshost\.pern\.edu\.pk" [R=301,L]
+

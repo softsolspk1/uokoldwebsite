@@ -1,0 +1,7 @@
+
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^math\.uok\.edu\.pk$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.math\.uok\.edu\.pk$
+RewriteRule ^/?$ "http\:\/\/www\.ngds\-ku\.org\/math\/math\.pdf" [R=301,L]
+

@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^anthromath\.uok\.edu\.pk$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.anthromath\.uok\.edu\.pk$
+RewriteRule ^/?$ "http\:\/\/ngds\-ku\.org\/anthromathematics\/anthromathematics\.pdf" [R=301,L]
+

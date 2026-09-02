@@ -1,0 +1,40 @@
+
+
+div.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #eee;
+    border-radius: 4px 4px 0 0;
+}
+
+div.tab button {
+    background-color: #fff;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: default;
+    padding: 1em 1.2em;
+    font-size: 1em;
+    width: 50%;
+}
+
+div.tab button:hover {
+    
+    background-color: #ccc;
+    color: #fff;
+}
+
+div.tab button.active {
+    
+    background-color: #ccc;
+    color: #fff;
+}
+
+.content {
+    display: none;
+    background-color: #fff;
+    padding: 0.5em 1em;
+    border: 1px solid #ccc;
+    border-top: none;
+    border-radius: 0 0 4px 4px;
+}

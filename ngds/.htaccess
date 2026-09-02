@@ -1,0 +1,7 @@
+
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^ngds\.uok\.edu\.pk$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.ngds\.uok\.edu\.pk$
+RewriteRule ^/?$ "http\:\/\/ngds\-ku\.org\/" [R=301,L]
+
