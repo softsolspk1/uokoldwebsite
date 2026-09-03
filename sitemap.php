@@ -205,7 +205,7 @@
                 <li><a href="/ann_results/bcom.php">B.Com. degree</a></li>
                 <li><a href="/ann_results/maeco.php">M.A. (Economics) degree</a></li>
                 <li><a href="/ann_results/results.php"> Results Archive</a></li>
-                <li><a href="/ann_results/contacts.php">Contacts</a></li>
+                <li><a href="/ann_results/contact.php">Contacts</a></li>
                 </ul>
               </li>
             <li><a href="/sem_results/index.php">Semester Section</a>
@@ -217,7 +217,7 @@
                 <li><a href="/downloads/index.php#sem">Notifications &amp; Downloads</a></li>
                 <li><a href="/sem_results/results.php">Results</a></li>
                 <li><a href="/sem_results/results-affcol.php" target="_blank">Results (Affiliated Colleges)</a></li>
-                <li><a href="/sem_results/contacts.php">Contact</a></li>
+                <li><a href="/sem_results/contact.php">Contact</a></li>
                 </ul>
               </li>
             <li>Overseas Examination Bureau
@@ -257,7 +257,7 @@
                 <li><a href="/pd/index.php" target="_blank">Directorate of Planning &amp; Development</a></li>
                 <li><a href="/dpe/index.php" target="_blank">Directorate of Physical Education</a></li>
                 <li><a href="http://qecku.com/" target="_blank">Quality Enhancement Cell</a></li>
-                <li><a href="/sfao1/index.php" target="_blank">Student Finance Aid Office</a></li>
+                <li><a href="/sfao/index.php" target="_blank">Student Finance Aid Office</a></li>
                 <li><a href="/sgcpb/index.php" target="_blank">Students' Guidance, Counseling, Placement &amp; Overseas Examination Bureau</a></li>
                 <li><a href="/sa/index.php" target="_blank">Student Advisor Office</a></li>
               </ul>
@@ -291,7 +291,7 @@
         <li><a href="/credits.php"><span>Credits</span></a></li>
         <li><a target="_blank" href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=karachi+university&amp;sll=37.0625,-95.677068&amp;sspn=39.320439,83.759766&amp;ie=UTF8&amp;hq=university&amp;hnear=Karachi,+Sindh,+Pakistan&amp;fll=24.942629,67.120467&amp;fspn=0.005506,0.010225&amp;st=109146043351405611748&amp;rq=1&amp;ev=p&amp;split=1&amp;ll=24.943962,67.117968&amp;spn=0.027161,0.036478&amp;z=14"><span>Maps</span></a></li>
         <li><a href="/sitemap.php"><span>Site map</span></a></li>
-        <li><a href="/contactus.php"><span>Contact us</span></a></li>
+        <li><a href="/contacts.php"><span>Contact us</span></a></li>
         <li><a href="/contacts.php"><span>Directory</span></a></li>
         <li><a href="/search.php">Search UoK Web</a></li>
         </ul>
