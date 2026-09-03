@@ -69,7 +69,7 @@
   <p><strong>DEPARTMENT OF AGRICULTURE AND AGRIBUSINESS MANAGEMENT </strong></p>
   <p>    UNIVERSITY OF KARACHI, KARACHI-75270</p>
   <p>Telephone: 9926261300-6 Ext. 2546 Direct: 99261007</p>
-  <p>Website: <a href="http://www.uok.edu.pk/faculties/agriculture">www.uok.edu.pk/faculties/agriculture</a><br />
+  <p>Website: <a href="/faculties/agriculture">www.uok.edu.pk/faculties/agriculture</a><br />
     Departmental Email: <a href="mailto:agriculture@uok.edu.pk">agriculture@uok.edu.pk</a>   <br />
     Chairperson Email: <a href="mailto:faheemakbar@uok.edu.pk">faheemakbar@uok.edu.pk</a></p>
 <p>&nbsp;</p>

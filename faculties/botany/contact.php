@@ -71,7 +71,7 @@
 <p>  Telephone: 99261300-06 Ext: 2288<br />
 <p>Email: <a href="mailto:botany@uok.edu.pk"> botany@uok.edu.pk</a></p>
 
-<p>Website: <a href="http://www.uok.edu.pk/faculties/botany/index.php"> www.uok.edu.pk/faculties/botany/</a></p>
+<p>Website: <a href="/faculties/botany/index.php"> www.uok.edu.pk/faculties/botany/</a></p>
 <br clear="all" />
 <p>&nbsp;</p>
   <h3>&nbsp;</h3>

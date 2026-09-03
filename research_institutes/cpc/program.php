@@ -74,7 +74,7 @@
     </table>    -->
   <p align="justify"><strong>M.Phil.</strong> Eligibility: B.S., MSc. in Botany, or relevant fields from a HEC recognized  University.<br /><br />
     <strong>Ph.D. </strong>Eligibility:  M.S., M.Phil. in Botany, or relevant fields (with CGPA 3.00 or more or its  equivalent qualification) from a HEC recognized University.<br /><br />
-    As per University rule or  guideline, <a href="https://uok.edu.pk/admissions/pg-index.php"> LINK </a>,  admissions will be granted on the basis of Test and Interview to be conducted  by the respective departmental research committee and other relevant  information will be available in admission section.<br /><br />
+    As per University rule or  guideline, <a href="/admissions/pg-index.php"> LINK </a>,  admissions will be granted on the basis of Test and Interview to be conducted  by the respective departmental research committee and other relevant  information will be available in admission section.<br /><br />
     Minimum Qualifying marks  in the entrance test&nbsp;for M.Phil. &amp; Ph.D. program are 50% (Fifty  percent).</p>
   <p>&nbsp;</p>  
   <table border="1" cellspacing="0" cellpadding="0" width="650">

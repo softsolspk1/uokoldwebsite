@@ -1,1 +1,1 @@
-<? header('Location: http://www.uok.edu.pk/credits.php'); ?>
+<? header('Location: /credits.php'); ?>

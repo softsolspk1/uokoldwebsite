@@ -1,4 +1,4 @@
 <?php
-header('Location:http://www.uok.edu.pk/pd/tenders.php');
+header('Location: /pd/tenders.php');
 die();
 ?>

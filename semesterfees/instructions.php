@@ -120,7 +120,7 @@
       <p>&nbsp;</p>
       <p>2. Admit Curd may not he issued to the defaulter by the Semester Cell.<br />
          3. Students of Morning program may not allow to sit in exam until the clearance of all outstanding dues.<br />
-         4. Fee voucher may be downloaded at <a href="https://uok.edu.pk/semesterfees" target="_blank">https://uok.edu.pk/semesterfees/</a> by using Kuick Pay (UBL) and pay using any of the following payment methods:
+         4. Fee voucher may be downloaded at <a href="/semesterfees" target="_blank">https://uok.edu.pk/semesterfees/</a> by using Kuick Pay (UBL) and pay using any of the following payment methods:
       <p>
       <ul><ul>
         <li>UBL Branches: The student or his/her agent can visit only  branch with their downloaded fee voucher.</li>

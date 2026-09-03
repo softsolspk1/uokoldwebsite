@@ -67,17 +67,17 @@
   <p><strong>Q: Which departments/faculties are eligible for the Bismillah Bibi  &amp; Mrs. Talat Jamil Scholarship?</strong><br />
     A: Merit-based scholarships for students in departments under the  faculties of Science &amp; Pharmacy. Morning Program students are eligible.</p>
   <p><strong>Q: Where can I find details about the scholarship interview,  including time and venue?</strong><br />
-    A: All the information will be available on the Karachi University <strong>website</strong>. <a href="https://uok.edu.pk/sfao/scholarships.php">https://uok.edu.pk/sfao/scholarships.php</a>&nbsp;</p>
+    A: All the information will be available on the Karachi University <strong>website</strong>. <a href="/sfao/scholarships.php">https://uok.edu.pk/sfao/scholarships.php</a>&nbsp;</p>
 <hr size="1" width="100%" align="center" /><br/>
 <h3>1. What are  the official platforms for scholarship information?</h3>
-<p><strong>A:</strong>&nbsp; <a href="https://uok.edu.pk/sfao/scholarships.php#y2023" target="_blank"><strong>Official  Scholarship Page</strong></a><strong>:</strong> <a href="https://www.uok.edu.pk/sfao/scholarships.php"><strong>https://www.uok.edu.pk/sfao/scholarships.php</strong></a><strong> </strong><br />
+<p><strong>A:</strong>&nbsp; <a href="/sfao/scholarships.php#y2023" target="_blank"><strong>Official  Scholarship Page</strong></a><strong>:</strong> <a href="/sfao/scholarships.php"><strong>https://www.uok.edu.pk/sfao/scholarships.php</strong></a><strong> </strong><br />
   <strong>A:</strong>&nbsp; <strong>KU</strong> <strong>Official Facebook Platform: </strong> <strong>KU Times</strong> <a href="https://www.facebook.com/kutimes?mibextid=ZbWKwL"><strong>https://www.facebook.com/kutimes?mibextid=ZbWKwL</strong></a> <br />
   <strong>A:</strong>  <strong>KU</strong> <strong>Official WhatsApp Channel:</strong> <strong>KU Times</strong> (WhatsApp Link: <a href="https://whatsapp.com/channel/0029Vap9QMDAO7RIzFDvuu2B">https://whatsapp.com/channel/0029Vap9QMDAO7RIzFDvuu2B</a> )<br />
   <strong>A:</strong> <strong>Official E-mail  address of SFAO:</strong> <strong>sfao@uok.edu.pk</strong></p>
 <p>&nbsp; </p>
 <hr size="1" width="100%" align="center" /><br/>
 <h3>2. Are  there extensions for the submission of scholarship forms?</h3>
-<p><strong>A:</strong>&nbsp;Extensions for  the submission of scholarship forms are rare. For more details, please refer to  the&nbsp;<a href="https://uok.edu.pk/sfao/scholarships.php#y2023" target="_blank">official scholarship page</a>.</p>
+<p><strong>A:</strong>&nbsp;Extensions for  the submission of scholarship forms are rare. For more details, please refer to  the&nbsp;<a href="/sfao/scholarships.php#y2023" target="_blank">official scholarship page</a>.</p>
 <hr size="1" width="100%" align="center" /><br/>
 <h3>3. What is  the deadline for submitting scholarship forms?</h3>
 <p><strong>A:</strong>&nbsp;Every  scholarship has different date of advertisement and deadlines. Therefore students  are advised to carefully <u>READ &amp; UNDERSTAND</u> the scholarship advertisement  uploaded on <a href="mailto:Official%20Scholarship%20Page">Official Scholarship  Page</a> where all such information is carefully mentioned by SFAO. For further  inquiries, contact&nbsp;<a href="mailto:sfao@uok.edu.pk" target="_blank"><strong>sfao@uok.edu.pk</strong></a>.</p>

@@ -1,1 +1,1 @@
-<?php header('Location: http://uok.edu.pk/faculties/chemicalengineering/index.php'); ?>
+<?php header('Location: /faculties/chemicalengineering/index.php'); ?>

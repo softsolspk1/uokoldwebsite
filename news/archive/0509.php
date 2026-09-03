@@ -74,7 +74,7 @@
         <li class="style1">
           <div align="left"><a href="/ann_results/images/060509a.jpg">MA ( Regular / External ) Examination from June 15, 2009 - 06/05/09</a></div>
         </li>
-        <li class="style1"><a href="http://uok.edu.pk/pd/docs/geology.pdf">Construction of New Block in the department of geology (Tender Evaluation report) - 06/05/09</a> </li>
+        <li class="style1"><a href="/pd/docs/geology.pdf">Construction of New Block in the department of geology (Tender Evaluation report) - 06/05/09</a> </li>
         <li class="style1">
           <div align="left"><a href="/ann_results/docs/llbfsupp08.pdf"><font size="2" color="#0000CC" face="Verdana, Arial, Helvetica, sans-serif">Result of LLB Final year Supplementary Examination 2009 - 02/05/09</font></a></div>
         </li>

@@ -210,7 +210,7 @@
 
       <td valign="top">
 
-        <p align="justify"><strong><a href="https://uok.edu.pk/research_institutes/chwb/index.php" target="_blank">Center for Health and Wellbeing</a></strong> (<a href="mailto:chwb@uok.edu.pk">chwb@uok.edu.pk</a>) </p>
+        <p align="justify"><strong><a href="/research_institutes/chwb/index.php" target="_blank">Center for Health and Wellbeing</a></strong> (<a href="mailto:chwb@uok.edu.pk">chwb@uok.edu.pk</a>) </p>
 
       </td>
 

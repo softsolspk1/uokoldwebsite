@@ -67,7 +67,7 @@
   <h4>University of Karachi</h4>
   <p>Karachi-75270, Pakistan</p>
   <p>Tel: 99261300-07</p>
-  <p>Web: <a href="https://uok.edu.pk/research_institutes/chwb/index.php">www.uok.edu.pk/chwb</a></p>
+  <p>Web: <a href="/research_institutes/chwb/index.php">www.uok.edu.pk/chwb</a></p>
 <p>Email: <a href="mailto:chwb@uok.edu.pk">chwb@uok.edu.pk</a></strong></p>
 <p align="justify">&nbsp;</p>
 <h3 align="center">&nbsp;</h3>

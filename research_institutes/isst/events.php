@@ -68,7 +68,7 @@
 </div>
 <div class="right_course">
 <p>&nbsp;</p>
-  <h2 align="center"><strong>Annular Solar Eclipse on June 21, 2020</strong> <a href="http://www.uok.edu.pk/research_institutes/isst/gallery.php">&nbsp; (Glimpses)</a></h2>
+  <h2 align="center"><strong>Annular Solar Eclipse on June 21, 2020</strong> <a href="/research_institutes/isst/gallery.php">&nbsp; (Glimpses)</a></h2>
   <p>The total  eclipse of the sun occurs when, the moon moves directly in front of the sun. However,  unlike a total solar eclipse, the moon during an annular eclipse is too far  away to completely over the solar disk. Hence the Sun appears as a very bright  ring, or&nbsp;annulus, surrounding the dark disk of the Moon.</p>
     <p>On June 21, 2020  an annular/partial solar eclipse will be visible in the most parts of the  world. The <strong>annular phase</strong> of this&nbsp;<a href="https://www.timeanddate.com/eclipse/annular-solar-eclipse.html">solar eclipse</a>&nbsp;will  be visible from parts of Africa including the Central African Republic, Congo,  and Ethiopia; southern part of Pakistan and northern India; and China.&nbsp;</p>
     <p>In Pakistan, the  annular solar eclipse will be visible on the strip covering Gwadar, Larkana and  Sukker. <a href="https://www.timeanddate.com/scripts/go.php">Weather  permitting</a>, people in these areas will see the characteristic ring  of fire. Rest of the country will witness the partial solar eclipse. </p>

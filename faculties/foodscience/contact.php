@@ -69,7 +69,7 @@
 <p>&nbsp;</p>
 <h3>For Further Enquiry</h3>
 <p>Telephone: &nbsp; 99261300-6 Ext 2413<br />
-Website: &nbsp; &nbsp; &nbsp; <a href="http://www.uok.edu.pk/faculties/foodscience">www.uok.edu.pk/faculties/foodscience</a><br />
+Website: &nbsp; &nbsp; &nbsp; <a href="/faculties/foodscience">www.uok.edu.pk/faculties/foodscience</a><br />
 Email: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="mailto:foodscience@uok.edu.pk">foodscience@uok.edu.pk</a><br />
 Facebook: &nbsp;&nbsp;<a href="https://www.facebook.com/DFSTKU"> Click here</a><br />
 </p>
