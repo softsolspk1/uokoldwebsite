@@ -174,7 +174,6 @@
             <li><a href="/research_institutes/cdfst/index.php" target="_blank">Centre for Digital Forensic Science & Technology</a></li>
             <li><a href="/research_institutes/aerc/index.php" target="_blank">Applied Economics Research Center </a></li>
             <li><a href="http://www.asce-ku.com.pk/" target="_blank">Area Study Center for Europe</a></li>
-            <li><a href="/research_institutes/cemb/index.php" target="_blank">Center of Excellence for Marine Biology</a></li>
             <li><a href="/research_institutes/cmg/index.php" target="_blank">Center of Molecular Genetics</a></li>
             <li><a href="/research_institutes/Women_Studies/index.php">Center of Excellence for Women's Study</a></li>
             <li><a href="/research_institutes/cpc/index.php">Center of Plant Conservation</a></li>
@@ -185,7 +184,6 @@
             <li><a href="/research_institutes/icp/index.php">Institute of Clinical Psychology</a></li>
             <li><a href="/research_institutes/ies/index.php">Institute of Environmental Studies</a></li>
             <li><a href="/research_institutes/marine_science/index.php">Institute of Marine Science</a></li>
-            <li> <a href="/research_institutes/ispa/index.php">Institute of Space and Planetary Astrophysics </a></li>
             <li><a href="http://halophyte.org" target="_blank">Institute of Sustainable Halophytes</a></li>
             <li><a href="/research_institutes/brc/index.php">M. A. H. Q. Biological Research Centre</a></li>
             <li><a href="/research_institutes/mrcrc/index.php">Marine Reference Collection and Resource Centre</a></li>
@@ -224,7 +222,6 @@
               <ul>
                 <li><a href="/sgcpb/index.php">Introduction</a></li>
                 <li><a href="/sgcpb/programs.php">Degree programs</a></li>
-                <li><a href="/sgcpb/schedule.php">Schedule</a></li>
                 <li><a href="/sgcpb/contact.php">Contact</a></li>
                 </ul>
               </li>
