@@ -18,8 +18,11 @@
     },
     {
       "src": "/(.*)\\.(pdf|jpg|jpeg|png|gif|doc|docx|xls|xlsx|ppt|pptx|zip|rar|mp3|mp4|bmp|webp|swf)",
-      "dest": "https://pub-fa9e1086078b499a9e91e19b8c804ba2.r2.dev/$1.$2",
-      "headers": { "Cache-Control": "public, max-age=604800, s-maxage=2592000" }
+      "status": 302,
+      "headers": {
+        "Location": "https://pub-fa9e1086078b499a9e91e19b8c804ba2.r2.dev/$1.$2",
+        "Cache-Control": "public, max-age=604800, s-maxage=2592000"
+      }
     },
     {
       "src": "/(.*)\\.(css|js)$",
