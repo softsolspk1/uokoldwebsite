@@ -611,7 +611,7 @@ var blink_speed = 650; var t = setInterval(function () { var ele = document.getE
                     </div>
                   <div class="search_box_course">
                   <p><a href="/sfao/index.php"><strong>Student Finance Aid Office: </strong></a><br/>
-                  <span id="blink">University Of Karachi Alumni Association (Ukaa) Baltimore, Scholarship 2026-2027 :: <a href="/sfao/images/2026/ukaabm.jpg" target="_blank">Click here</a></span></p>
+                  <span id="blink">Haier Pakistan Funded Scholarship Award Notification :: <a href="/sfao/docs/2026/hschiinst.pdf" target="_blank">Click here</a></span></p>
             
           </div>
                 </div>
