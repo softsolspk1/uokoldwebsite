@@ -610,7 +610,7 @@ var blink_speed = 650; var t = setInterval(function () { var ele = document.getE
                         <h2><a href="/sfao/scholarships.php">Scholarships</a></h2>
                     </div>
                   <div class="search_box_course">
-                  <p><a href="/sfao/index.php"><strong>Student Finance Aid Office: </strong></a><br/>
+                  <p><a href="/sfao/index.php"><strong>Student Finance Aid Office: </strong></a><br/><br/>
                   <span id="blink">Haier Pakistan Funded Scholarship Award Notification :: <a href="/sfao/docs/2026/hschiinst.pdf" target="_blank">Click here</a></span></p>
             
           </div>
