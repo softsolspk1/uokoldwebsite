@@ -64,7 +64,7 @@
   <td align="center"><h3><a name="y2026" id="y2026"></a>2026</h3></td>
 </tr>
 <tr>
-  <td align="left" valign="middle"><p><strong>Dated : 07/08/26</strong></p>
+  <td align="left" valign="middle"><p><strong>Dated : 08/09/26</strong></p>
   <p>Tender Notice (Computer System - DCS) : <a href="/pd/docs/2026/tncsdcs.pdf" target="_blank"> Click here</a></p></td>
 </tr>
 <tr>
