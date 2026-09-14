@@ -55,6 +55,7 @@
 <li><a href="team.php">ORIC Team</a></li>
 <li><a href="cnb.php">Committees & Boards</a></li>
 <li><a href="rga.php">Research Grant Announcements</a></li>
+ <li><a href="schgrt.pdf" target="_blank">Research Grant Announcements 2025-2026</a></li>  
 
 <li><a href="pqr.php">P.Q.R.</a></li>
 <li></li>

@@ -63,7 +63,7 @@
 <div class="right_course">
   <p>&nbsp;</p>
   <ul>
-    <li>Dr. Farhana Shafiq Ghory                 (In-charge)</li>
+    <li>Dr. Farhana Shafiq Ghory                 </li>
     <li>Ms. Wafra Matanat Zaheen   				 &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Taxonomist)</li>
     <li>Dr. M. Uzair Khan                 		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;(Taxonomist)</li>
     <li>Dr. Quratulan Ahmed                 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;    (Research Scholar)</li>

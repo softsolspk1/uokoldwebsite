@@ -61,7 +61,7 @@
 </div>
 </div>
 <div class="right_course">
-  <h2>Incharge: <strong>Dr. Farhana Shafiq Ghory</strong></h2>
+  <h2>Incharge: Ms. Wafra Matant Zaheen</h2>
   <table width="97%" border="0">
     <tr>
       <td width="8%">&nbsp;</td>
