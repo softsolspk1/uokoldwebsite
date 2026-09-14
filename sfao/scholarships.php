@@ -156,7 +156,8 @@
   </tr>
   <tr>
     <td><ul>  
-        <li><span id="blink">University Of Karachi Alumni Association (Ukaa) Baltimore, Scholarship 2026-2027 :: <a href="/sfao/images/2026/ukaabm.jpg" target="_blank">Click here</a></span></li>
+        <li><span id="blink">Haier Pakistan Funded Scholarship Award Notification :: <a href="/sfao/docs/2026/hschiinst.pdf" target="_blank">Click here</a></span></li>
+        <li>University Of Karachi Alumni Association (Ukaa) Baltimore, Scholarship 2026-2027 :: <a href="/sfao/images/2026/ukaabm.jpg" target="_blank">Click here</a></li>
         <li>Scholarship Advertisement | SEEF 2025-26 :: <a href="/sfao/images/2026/seefflyr.jpg" target="_blank">Click here</a></li>
         <li>UKAHA Need Based Financial Assistance Program 2026 :: <a href="/sfao/docs/2026/ukahan.pdf" target="_blank">Notification</a> | <a href="/sfao/docs/2026/ukahaf.pdf" target="_blank">Form</a></li>
         <li>Scholarship Award Notification, HEC-Needs Based Scholarship (Renewal Cases) FY 2025-26 :: <a href="/sfao/docs/2026/hecnbran.pdf" target="_blank">Click here</a></li>
