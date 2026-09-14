@@ -65,6 +65,10 @@
 </tr>
 <tr>
   <td align="left" valign="middle"><p><strong>Dated : 07/08/26</strong></p>
+  <p>Tender Notice (Computer System - DCS) : <a href="/pd/docs/2026/tncsdcs.pdf" target="_blank"> Click here</a></p></td>
+</tr>
+<tr>
+  <td align="left" valign="middle"><p><strong>Dated : 07/08/26</strong></p>
   <p>Quotation Invited (Laboratory Items - Visual Studies) : <a href="/pd/docs/2026/li-vs.pdf" target="_blank"> Click here</a></p></td>
 </tr>
 <tr>
