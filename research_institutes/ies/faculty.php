@@ -71,31 +71,7 @@
   <h3>&nbsp;</h3>
   <table border="0" cellspacing="0" cellpadding="0" width="95%">
     <tbody>
-      
-      <tr>
-        <td valign="top"><p align="justify" id="docs-internal-guid-6575a315-1ca6-7f98-8c12-720f5c92f3c7" dir="ltr">Professor Dr. Moazzam Ali Khan,  has joined the Institute in 1990 and serving in various capacities since last 25 years and the now became the senior most faculty of the Institute. He was the longest serving Director of the Institute. </p>
-          <p align="justify" dir="ltr">He has done his Ph.D on low cost wastewater treatment technology and has considerable experience on recycling and reuse of wastewater specially in water scarce areas. Currently he has been engaged in working on climate change and security problems in the region. </p>
-          <p align="justify" dir="ltr">He has organized many national and international seminars, workshops and lectures, many of these have been sponsored by the World Health Organization. He is also local tutor of CLIMA; A project of the European Commission on global climate change. Recently he has &nbsp;completed a collaborative project through DelPHE in which University of Oxford and Dhaka University are the collaborating partners. He is also the founder member of SANSaC (South Asian Network on Security and Climate Change) through which he is conducting a project on climate change and security issues in Pakistan funded by International Alert UK. He has authored &nbsp;more than eighty research papers which have been published in national and international journals. He has traveled extensively and has presented his research findings in many international forums.</p>          <p align="justify">&nbsp;</p></td>
-        <td valign="top">&nbsp;</td>
-        <td valign="top"><p align="center"><img width="140" height="168" src="images/faculty_clip_image001_0000.jpg" alt="1" /></p></td>
-      </tr>
-      <tr>
-        <td height="167" valign="top"><p align="justify">Prof. Dr Omm-e-Hany,    joined the Institute in 2001. She    has done her Ph.D in Microbiology from University of Karachi.    Her research during past years has focused on biological and biochemical    effects of environmental contaminants. Her key areas of study included    environmental issues pertaining to public health and hygiene. Presently she    is working on the biodegradation of toxic pollutants having significant    impact on environment.</p></td>
-        <td valign="top">&nbsp;</td>
-        <td valign="top"><p align="center"><img width="140" height="160" src="images/faculty_clip_image004_0000.jpg" alt="3" /></p></td>
-      </tr>
-<!--      <tr>
-        <td height="169" valign="top"><p align="justify">Prof. Dr. Seema    Jilani holds a PhD degree in the subject of Environmental Science from University of Karachi, Pakistan    and ME in Environmental Science &amp; Technology from UNESCO-IHE, Delft, The Netherlands.    She has been serving in various faculty positions for last 25 years. She has    authored two books and several publications to her credit in national and    international research journals. She is HEC approved PhD supervisor. Her    areas of interest are environmental biotechnology, bioremediation of    pesticide waste, water &amp; wastewater pollution control technology and    municipal solid waste composting.</p></td>
-        <td valign="top">&nbsp;</td>
-        <td valign="top"><img width="144" height="173" src="images/sji.jpg" alt="1" /></td>
-      </tr>
-      <tr>
-        <td height="169" valign="top"><p align="justify">Dr. Zafar    Iqbal Shams has joined the Institute as Assistant Professor in May, 2010. He    has also served the Institute as Research Fellow (Air Pollution) from 1985 to    1988. He completed his Ph.D. in Environmental Science in 1993 under the    Fellowship Programme sponsored by Karachi Development Authority. This is the    first Ph.D degree in Environmental Science awarded by any university in Pakistan.<br />
-Earlier in 1985, he completed    his M.Sc. in Botany with specialization in Plant Ecology from the Department    of Botany. He has published various research as well as popular articles in    the national and international periodicals on environmental issues. He has    wide experience of teaching in the colleges of Government of Sindh.</p>          <p align="justify"> </p></td>
-        <td valign="top">&nbsp;</td>
-        <td valign="top"><p align="center"><img width="147" height="158" src="images/zi.jpg" alt="5" /></p></td>
-      </tr>  -->
-      <tr>
+    <tr>
         <td height="170" valign="top"><p align="justify">Dr. Farrakh holds a PhD in  Environmental Sciences from France and Post-docs from Germany and Australia. He is working as Associate  Professor in the institute of Environmental Studies, University of Karachi since 27-01-2023. He has  also served as ex-Chairman, Department of Forestry and Range Management,  University of Agriculture, Faisalabad. With his research. he aims to promote sustainable forestry  management and environmental amelioration in Pakistan. In his studies, he investigates the  environmental services of trees, such as but not limited to climate change mitigation through carbon  sequestration by integrated land use, phytoremedial potential of trees for reclaiming degraded soils and the impact of  mechanized operations in forests.<br/>
 His major achievements in his career include Silver  medal in M.Sc. (Hons.) Forestry in 2006, HEC  overseas scholarship for pursuing Ph.D. in France in 2006, Green Talent Award  from Germany in 2012, Research Productivity Award (RPA-PCST) from  Pakistan in 2014 and 2015, and Australian  Endeavour Research Fellowship Award in 2017. From 2010 to 2023, he has completed 7 research projects with national and  international donors as PI and/or Co-PI. He has supervised more than 30  Post-graduate students. Moreover, he has contributed as author or co­author in 80 peer reviewed research publications  and several book chapters. He has also presented his studies in more  than 50 national or international conferences and seminars.</p></td>
         <td valign="top">&nbsp;</td>
