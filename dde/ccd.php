@@ -116,7 +116,7 @@
 <li><a href="docs/germanlan.pdf" target="_blank">German Language-2022</a></li>
 <li><a href="docs/japaneselan.pdf" target="_blank">Japanese Language-2022</a></li>
 <li><a href="docs/persianlan.pdf" target="_blank">Persian Language-2022</a></li>
-<li><a href="docs/enmetricseviews.pdf" target="_blank">Econometrics with EViews-2022</a></li>
+<li><a href="docs/enmetricstna.pdf" target="_blank">Econometrics Theory and Applications</a></li>
 <li><a href="images/wnccmanag.jpg" target="_blank">Women and Climate Change</a></li>
 <li><a href="images/gendernpeace.jpg" target="_blank">Gender and Peace</a></li>
 <li><a href="images/communicationskills.jpg" target="_blank">Communication Skills</a></li>
