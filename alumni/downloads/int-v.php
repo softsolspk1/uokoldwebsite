@@ -84,7 +84,7 @@
  <table width="96%" border="0">
     <tr>
       <td width="30%">&nbsp;</td>
-      <td><img src="/downloads/iform/inst-vouch.gif" width="511" height="101" alt="inst" /></td>
+      <td><img src="/alumni/downloads/iform/inst-vouch.gif" width="511" height="101" alt="inst" /></td>
     </tr>
   </table>
   <p>&nbsp;</p>

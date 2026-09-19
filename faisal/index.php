@@ -88,7 +88,7 @@ if (/MSIE (\d+\.\d+);/.test(navigator.userAgent)){
 
                 <div id="banner_slider">
 
-                 <div id="banner_images"><img src="images/banner2.jpg" alt="" /><a href="/conv/index.php" target="_blank"><img src="images/banner-conv12a.jpg" alt="" width="924" height="296" /></a><img src="images/ppl3.jpg" alt="" /><img src="images/banner4.jpg" alt="" width="924" height="296" /><img src="images/banner4-o.jpg" alt="" /></div>
+                 <div id="banner_images"><img src="/images/banner2.jpg" alt="" /><a href="/conv/index.php" target="_blank"><img src="/images/banner-conv12a.jpg" alt="" width="924" height="296" /></a><img src="/images/ppl3.jpg" alt="" /><img src="/images/banner4.jpg" alt="" width="924" height="296" /><img src="/images/banner4-o.jpg" alt="" /></div>
 
                   <div id="pager"></div>
 
@@ -98,7 +98,7 @@ if (/MSIE (\d+\.\d+);/.test(navigator.userAgent)){
 
           <div id="typo">
 
-          <blockquote><a href="/alumni/index.php">UoK Alumni registration</a>, <a href="https://www.facebook.com/pages/University-of-Karachi/1452052505065919" target="_blank">UoK News @ Facebook</a></blockquote> <a href="https://www.facebook.com/pages/University-of-Karachi/1452052505065919" target="_blank"><img src="alumni/fbt1.jpg" alt="Connect on Facebook" width="85" height="21" /></a>
+          <blockquote><a href="/alumni/index.php">UoK Alumni registration</a>, <a href="https://www.facebook.com/pages/University-of-Karachi/1452052505065919" target="_blank">UoK News @ Facebook</a></blockquote> <a href="https://www.facebook.com/pages/University-of-Karachi/1452052505065919" target="_blank"><img src="/alumni/fbt1.jpg" alt="Connect on Facebook" width="85" height="21" /></a>
 
               <!--<span><a href="/alumni/index.php">Read more</a></span>-->
 
@@ -379,7 +379,7 @@ if (/MSIE (\d+\.\d+);/.test(navigator.userAgent)){
 
                         </select>
 
-                        <input name="image" type="image" src="images/go.png" height="20" align="top" />
+                        <input name="image" type="image" src="/images/go.png" height="20" align="top" />
 
                       </form>
 

@@ -35,20 +35,20 @@
         <p><font color="#339933" size="3" face="Verdana, Arial, Helvetica, sans-serif"><strong><a name="admin" id="admin"></a>ADMINISTRATION BLOCK </strong></font></p>
         <table width="61%" height="433" border="1">
           <tr>
-            <td width="48%"><div align="center"><a href="images/gov010308/a.jpg"><img src="images/gov010308/at.jpg" alt="" width="75" height="70" border="0"></a></div></td>
-            <td width="50%"><div align="center"><a href="images/gov010308/b.jpg"></a><a href="images/gov010308/b.jpg"><img src="images/gov010308/bt.jpg" alt="4" width="165" height="98" border="0"></a></div></td>
+            <td width="48%"><div align="center"><a href="images/gov010308/a.jpg"><img src="/conv/2011/at.jpg" alt="" width="75" height="70" border="0"></a></div></td>
+            <td width="50%"><div align="center"><a href="images/gov010308/b.jpg"></a><a href="images/gov010308/b.jpg"><img src="/conv/2011/bt.jpg" alt="4" width="165" height="98" border="0"></a></div></td>
           </tr>
           <tr>
-            <td><div align="center"><a href="images/gov010308/c.jpg"><img src="images/gov010308/ct.jpg" alt="3" width="130" height="101" border="0"></a></div></td>
-            <td><div align="center"><a href="images/gov010308/d.jpg"><img src="images/gov010308/dt.jpg" alt="4" width="163" height="94" border="0"></a></div></td>
+            <td><div align="center"><a href="images/gov010308/c.jpg"><img src="/conv/2011/ct.jpg" alt="3" width="130" height="101" border="0"></a></div></td>
+            <td><div align="center"><a href="images/gov010308/d.jpg"><img src="/conv/2011/dt.jpg" alt="4" width="163" height="94" border="0"></a></div></td>
           </tr>
           <tr>
-            <td><div align="center"><a href="images/gov010308/e.jpg"><img src="images/gov010308/et.jpg" alt="5" width="163" height="97" border="0"></a></div></td>
-            <td><div align="center"><a href="images/gov010308/f.jpg"></a><a href="images/gov010308/e1.jpg"><img src="images/gov010308/e1t.jpg" alt="4" width="164" height="100" border="0"></a></div></td>
+            <td><div align="center"><a href="images/gov010308/e.jpg"><img src="/conv/2011/et.jpg" alt="5" width="163" height="97" border="0"></a></div></td>
+            <td><div align="center"><a href="images/gov010308/f.jpg"></a><a href="images/gov010308/e1.jpg"></a></div></td>
           </tr>
           <tr>
-            <td><div align="center"><a href="images/gov010308/g.jpg"></a><a href="images/gov010308/f.jpg"><img src="images/gov010308/ft.jpg" alt="4" width="169" height="105" border="0"></a></div></td>
-            <td><div align="center"><a href="images/gov010308/f.jpg"></a><a href="images/gov010308/g.jpg"><img src="images/gov010308/gt.jpg" alt="5" width="164" height="103" border="0"></a></div></td>
+            <td><div align="center"><a href="images/gov010308/g.jpg"></a><a href="images/gov010308/f.jpg"><img src="/conv/2011/ft.jpg" alt="4" width="169" height="105" border="0"></a></div></td>
+            <td><div align="center"><a href="images/gov010308/f.jpg"></a><a href="images/gov010308/g.jpg"><img src="/conv/2011/gt.jpg" alt="5" width="164" height="103" border="0"></a></div></td>
           </tr>
         </table>
       </div>
@@ -57,8 +57,8 @@
       <div align="center">
         <table width="65%" height="113" border="1">
           <tr>
-            <td width="48%"><div align="center"><a href="images/gov010308/h.jpg"><img src="images/gov010308/ht.jpg" alt="1" width="161" height="98" border="0"></a></div></td>
-            <td width="50%"><div align="center"><a href="images/gov010308/b.jpg"></a><a href="images/gov010308/i.jpg"><img src="images/gov010308/it.jpg" alt="2" width="158" height="105" border="0"></a></div></td>
+            <td width="48%"><div align="center"><a href="images/gov010308/h.jpg"><img src="/conv/2011/ht.jpg" alt="1" width="161" height="98" border="0"></a></div></td>
+            <td width="50%"><div align="center"><a href="images/gov010308/b.jpg"></a><a href="images/gov010308/i.jpg"><img src="/conv/2011/it.jpg" alt="2" width="158" height="105" border="0"></a></div></td>
           </tr>
               </table>
       </div>
@@ -67,23 +67,22 @@
       <div align="center">
         <table width="73%" height="369" border="1">
           <tr>
-            <td><div align="center"><a href="images/gov010308/j.jpg"><img src="images/gov010308/jt.jpg" alt="1" width="165" height="99" border="0"></a></div></td>
-            <td><div align="center"><a href="images/gov010308/b.jpg"></a><a href="images/gov010308/k.jpg"><img src="images/gov010308/kt.jpg" alt="4" width="168" height="88" border="0"></a></div></td>
+            <td><div align="center"><a href="images/gov010308/j.jpg"></a></div></td>
+            <td><div align="center"><a href="images/gov010308/b.jpg"></a><a href="images/gov010308/k.jpg"><img src="/conv/2011/kt.jpg" alt="4" width="168" height="88" border="0"></a></div></td>
           </tr>
           <tr>
-            <td><div align="center"><a href="images/gov010308/l.jpg"><img src="images/gov010308/lt.jpg" alt="3" width="158" height="86" border="0"></a></div></td>
-            <td><div align="center"><a href="images/gov010308/m.jpg"><img src="images/gov010308/mt.jpg" alt="4" width="104" height="123" border="0"></a></div></td>
+            <td><div align="center"><a href="images/gov010308/l.jpg"><img src="/conv/2011/lt.jpg" alt="3" width="158" height="86" border="0"></a></div></td>
+            <td><div align="center"><a href="images/gov010308/m.jpg"><img src="/conv/2011/mt.jpg" alt="4" width="104" height="123" border="0"></a></div></td>
           </tr>
           <tr>
-            <td><div align="center"><a href="images/gov010308/n.jpg"><img src="images/gov010308/nt.jpg" alt="5" width="162" height="89" border="0"></a></div></td>
-            <td><div align="center"><a href="images/gov010308/o.jpg"><img src="images/gov010308/ot.jpg" alt="4" width="163" height="86" border="0"></a></div></td>
+            <td><div align="center"><a href="images/gov010308/n.jpg"><img src="/conv/2011/nt.jpg" alt="5" width="162" height="89" border="0"></a></div></td>
+            <td><div align="center"><a href="images/gov010308/o.jpg"><img src="/conv/2011/ot.jpg" alt="4" width="163" height="86" border="0"></a></div></td>
           </tr>
               </table>
       </div>
       <p align="center">&nbsp;</p>
       <div align="left"> 
         <p align="justify"><font color="#339933" size="3" face="Verdana, Arial, Helvetica, sans-serif"><strong><a name="gov" id="gov">Urdu Version</a></strong></font></p>
-        <p align="center"><a href="images/010308.gif"><img src="images/010308.gif" alt="" name="news1" width="721" height="828" border="0"></a></p>
         <p align="justify">&nbsp;</p>
         <p align="justify">&nbsp;</p>
       </div>

@@ -59,7 +59,7 @@
 </div>
 <div class="right_course">
 <p>&nbsp;</p>
-<div align="center"><img src="images/nl_isiipi.jpg" alt="" width="100%" /><br/><img src="images/nl_isiipii.jpg" alt="" width="95%" /><br /><img src="images/nl_isiipiii.jpg" alt="" width="95%" /><br /><img src="images/nl_isiipiv.jpg" alt="" width="95%" /></div>
+<div align="center"><br/><br /><br /></div>
 <div align="right"> <a href="docs/nl_isii.pdf" target="_blank"><font size="-1"> (Download)</font></a></div>
  
   

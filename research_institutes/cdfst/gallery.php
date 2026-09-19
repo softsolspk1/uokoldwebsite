@@ -92,7 +92,7 @@
     <td><img src="images/6.jpg" width="618" height="427" alt="6" /></td>
     </tr>
     <!--<tr>
-    <td><img src="images/7.jpg" width="618" height="427" alt="7" /></td>
+    <td></td>
     </tr>-->
     
     </table>

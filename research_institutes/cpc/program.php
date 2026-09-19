@@ -69,7 +69,7 @@
 <!--  <table width="100%" border="0" align="right">
     <tr>
       <td width="80%"><div align="right"></div></td>
-      <td><div align="right"><a href="ohcpc.jpg" target="_blank"><img src="cpcevent.png" width="120" height="30" alt=""/></a></div></td>
+      <td><div align="right"><a href="ohcpc.jpg" target="_blank"><img src="/research_institutes/cpc/images/cpcevent.png" width="120" height="30" alt=""/></a></div></td>
     </tr>
     </table>    -->
   <p align="justify"><strong>M.Phil.</strong> Eligibility: B.S., MSc. in Botany, or relevant fields from a HEC recognized  University.<br /><br />

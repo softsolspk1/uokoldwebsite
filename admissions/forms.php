@@ -83,7 +83,7 @@
   <table width="96%" border="0">
     <tr>
       <td width="30%">&nbsp;</td>
-      <td><img src="2013/inst.gif" width="481" height="98" alt="inst" /></td>
+      <td><img src="/admissions/2016/inst.gif" width="481" height="98" alt="inst" /></td>
     </tr>
   </table>
   <p>&nbsp;</p>

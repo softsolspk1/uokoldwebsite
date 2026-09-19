@@ -49,7 +49,7 @@ if (/MSIE (\d+\.\d+);/.test(navigator.userAgent)){
 </div>
     <div id="banner_inner">
 <div id="banner_inner_wrapp">
-  <img src="images/banner-blog.jpg" alt="" />
+  <img src="/images/banner-blog.jpg" alt="" />
   <h1>News &amp; Events</h1>
 </div>
 </div>

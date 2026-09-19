@@ -572,7 +572,7 @@
       <td align="left" valign="middle"><p><strong>Dated : 24/05/12</strong></p>
         <p>Quotation invited for repair and maintenance work</p>
         <a href="/pd/images/150911.jpg"></a></td>
-      <td align="center"><a href="/pd/images/2012/240512.jpg" target="_blank"><img src="/pd/images/2012/240512t.jpg" alt="Img" width="159" height="155" border="0" /></a></td>
+      <td align="center"><a href="/pd/images/2012/240512.jpg" target="_blank"></a></td>
     </tr>
     <tr>
       <td colspan="2" align="right"><h3><a href="#top">Top</a></h3></td>

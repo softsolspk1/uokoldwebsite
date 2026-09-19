@@ -107,7 +107,7 @@ function MM_swapImage() { //v3.0
   <!--
   <table width="100%" border="0" align="right">
     <tr>
-      <td height="77"><div align="right"><a href="/downloads/int-v.php" target="_blank"><img src="/downloads/iform/vc.png" alt="connect on registration" id="Image1" onmouseover="MM_swapImage('Image1','','/downloads/iform/vcc.png',1)" onmouseout="MM_swapImgRestore()" /></a></div></td>
+      <td height="77"><div align="right"><a href="/downloads/int-v.php" target="_blank"><img src="/alumni/downloads/iform/vc.png" alt="connect on registration" id="Image1" onmouseover="MM_swapImage('Image1','','/downloads/iform/vcc.png',1)" onmouseout="MM_swapImgRestore()" /></a></div></td>
       <td width="80%"><div align="right"></div></td>
   </tr>
   </table>

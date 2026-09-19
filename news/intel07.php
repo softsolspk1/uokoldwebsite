@@ -25,9 +25,9 @@
         <div align="center">
           <table height="127" border="1">
             <tr>
-              <td width="206" height="121"><div align="center"><a href="images/intel07/11.jpg"><img src="images/intel07/11t.jpg" alt="2" name="cpic1" width="162" height="112" border="0"></a></div></td>
-              <td width="206"><div align="center"><a href="images/intel07/12.jpg"><img src="images/intel07/12t.jpg" alt="3" name="cpic2" width="163" height="117" border="0"></a></div></td>
-              <td width="206"><div align="center"><a href="images/intel07/13.jpg"><img src="images/intel07/13t.jpg" alt="1" name="cpic3" width="195" height="115" border="0"></a></div></td>
+              <td width="206" height="121"><div align="center"><a href="images/intel07/11.jpg"><img src="/conv/images/2009/11t.JPG" alt="2" name="cpic1" width="162" height="112" border="0"></a></div></td>
+              <td width="206"><div align="center"><a href="images/intel07/12.jpg"><img src="/conv/images/2009/12t.JPG" alt="3" name="cpic2" width="163" height="117" border="0"></a></div></td>
+              <td width="206"><div align="center"><a href="images/intel07/13.jpg"><img src="/conv/images/2009/13t.JPG" alt="1" name="cpic3" width="195" height="115" border="0"></a></div></td>
             </tr>
           </table>
         </div>

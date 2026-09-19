@@ -74,7 +74,7 @@
   <h3>&nbsp;</h3>
   <table width="100%" border="0" align="right">
     <tr>
-      <td height="77"><div align="right"><a href="/downloads/int-v.php" target="_blank"><img src="/downloads/iform/vc.png" width="145" height="35" alt="connect on registration" /></a></div></td>
+      <td height="77"><div align="right"><a href="/downloads/int-v.php" target="_blank"><img src="/alumni/downloads/iform/vc.png" width="145" height="35" alt="connect on registration" /></a></div></td>
       <td width="80%"><div align="right"></div></td>
       
     </tr>

@@ -68,7 +68,7 @@
 <table width="100%" border="0">
     <tr>
       <td width="83%">&nbsp;</td>
-      <td width="17%" align="right"><div align="right"><a href="#" target="_blank"><img src="/faculties/smbbc/images/fb.jpg" width="163" height="49" alt="connect on facebook" /></a></div></td>
+      <td width="17%" align="right"><div align="right"><a href="#" target="_blank"><img src="/images/fb.jpg" width="163" height="49" alt="connect on facebook" /></a></div></td>
     </tr>
   </table>
 

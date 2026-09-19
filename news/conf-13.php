@@ -55,9 +55,9 @@
 <div class="right_course">
   
   <h1>&nbsp;</h1>
-  <p><img src="2013/con1.jpg" width="620" height="415" alt="a" /></p>
-  <p><img src="2013/con2.jpg" width="620" height="415" alt="a" /></p>
-  <p><img src="2013/con3.jpg" width="620" height="415" alt="a" /></p>
+  <p></p>
+  <p></p>
+  <p></p>
 </div>
 </div>
 </div>

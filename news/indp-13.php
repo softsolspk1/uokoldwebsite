@@ -55,8 +55,8 @@
 <div class="right_course">
   
   <h1>&nbsp;</h1>
-  <p><img src="2013/indp/a.jpg" width="620" height="415" alt="a" /></p>
-  <p><img src="2013/indp/b.jpg" width="620" height="415" alt="b" /><img src="2013/indp/c.jpg" width="620" height="415" alt="c" /><img src="2013/indp/d.jpg" width="415" height="620" alt="d" /><img src="2013/indp/e.jpg" width="415" height="620" alt="e" /><img src="2013/indp/f.jpg" width="620" height="415" alt="f" /><img src="2013/indp/g.jpg" width="620" height="415" alt="g" /><img src="2013/indp/h.jpg" width="620" height="415" alt="h" /><img src="2013/indp/i.jpg" width="620" height="415" alt="i" /><img src="2013/indp/j.jpg" width="620" height="415" alt="j" /></p>
+  <p><img src="/alumni/2013/A.jpg" width="620" height="415" alt="a" /></p>
+  <p><img src="/alumni/2013/B.jpg" width="620" height="415" alt="b" /><img src="/alumni/2013/C.jpg" width="620" height="415" alt="c" /><img src="/alumni/2013/D.jpg" width="415" height="620" alt="d" /><img src="/conv/2011/e.jpg" width="415" height="620" alt="e" /><img src="/conv/2011/f.jpg" width="620" height="415" alt="f" /><img src="/conv/2011/g.jpg" width="620" height="415" alt="g" /><img src="/conv/2011/h.jpg" width="620" height="415" alt="h" /><img src="/conv/2011/i.jpg" width="620" height="415" alt="i" /></p>
   <p></p>
   <p></p>
   <p></p>

@@ -65,7 +65,7 @@
 <!--  <table width="100%" border="0" align="right">
     <tr>
       <td width="80%"><div align="right"></div></td>
-      <td><div align="right"><a href="ohcpc.jpg" target="_blank"><img src="cpcevent.png" width="120" height="30" alt=""/></a></div></td>
+      <td><div align="right"><a href="ohcpc.jpg" target="_blank"><img src="/research_institutes/cpc/images/cpcevent.png" width="120" height="30" alt=""/></a></div></td>
     </tr>
     </table>    -->
   <p align="justify">Confucius Institute at University of Karachi CIUK has two computer  language labs, a library with a stock of 8000 books, air-conditioned classrooms  with modern teaching facilities, conference room, Auditorium and activity room  for multiple purposes., and fast internet connectivity etc.</p>
